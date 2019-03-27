@@ -14,7 +14,7 @@ import android.widget.LinearLayout;
 
 import com.bumptech.glide.Glide;
 
-import org.sharpai.everywhere.R;
+import org.deepcamera.everywhere.R;
 
 import com.photoselector.model.PhotoModel;
 
